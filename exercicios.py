@@ -50,6 +50,12 @@ for i in range(1, 11):
     print(i)
 
 ############## 8
+# 1. Criação da lista com os números de 1 a 5
+numeros = [1, 2, 3, 4, 5]
+
+# 2. Exibir cada número da lista
+for numero in numeros:
+    print(numero)
 
 
 
