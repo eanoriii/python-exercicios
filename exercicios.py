@@ -57,5 +57,15 @@ numeros = [1, 2, 3, 4, 5]
 for numero in numeros:
     print(numero)
 
+######################## 9
+pessoas = {}
+
+pessoas["Marcella"] = 30
+pessoas["Vinicius"] = 19
+pessoas["Hatsune Miku"] = 16
+
+for nome, idade in pessoas.items():
+    print(f"Nome: {nome}, Idade: {idade}")
+
 
 
